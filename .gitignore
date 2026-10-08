@@ -1,0 +1,32 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# Dataset
+data/raw/
+data/processed/
+
+# Trained models
+models/
+
+# Generated results
+results/
+
+# Python distribution
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
